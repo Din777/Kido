@@ -1,0 +1,14 @@
+.item-preview {
+    border: solid 1px $clr5;
+    margin-top: 15px;
+    
+    h3 {
+        text-align: end;
+    }
+    img {
+        min-height: 200px;
+        max-width: 185px;
+        object-fit: contain;
+        // background-color: violet;
+    }
+}
