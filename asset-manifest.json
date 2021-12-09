@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kido/static/css/main.b8e49aab.chunk.css",
+    "main.js": "/Kido/static/js/main.e4eca145.chunk.js",
+    "main.js.map": "/Kido/static/js/main.e4eca145.chunk.js.map",
+    "runtime-main.js": "/Kido/static/js/runtime-main.1d7954df.js",
+    "runtime-main.js.map": "/Kido/static/js/runtime-main.1d7954df.js.map",
+    "static/js/2.5dfe91dc.chunk.js": "/Kido/static/js/2.5dfe91dc.chunk.js",
+    "static/js/2.5dfe91dc.chunk.js.map": "/Kido/static/js/2.5dfe91dc.chunk.js.map",
+    "static/js/3.9d1723a9.chunk.js": "/Kido/static/js/3.9d1723a9.chunk.js",
+    "static/js/3.9d1723a9.chunk.js.map": "/Kido/static/js/3.9d1723a9.chunk.js.map",
+    "index.html": "/Kido/index.html",
+    "static/css/main.b8e49aab.chunk.css.map": "/Kido/static/css/main.b8e49aab.chunk.css.map",
+    "static/js/2.5dfe91dc.chunk.js.LICENSE.txt": "/Kido/static/js/2.5dfe91dc.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Kido/static/media/PermanentMarker-Regular.109a10dc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7954df.js",
+    "static/js/2.5dfe91dc.chunk.js",
+    "static/css/main.b8e49aab.chunk.css",
+    "static/js/main.e4eca145.chunk.js"
+  ]
+}
