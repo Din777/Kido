@@ -1,14 +1,14 @@
 import React from 'react'
 import { ItemList } from '../cmps/ItemList.jsx'
-import { itemService } from '../services/item-service.js'
+import { stickersService } from '../services/stickers-service.js'
 
-export class ItemApp extends React.Component {
+export class Stickers extends React.Component {
     state = {
         items: []
     }
 
     componentDidMount() {
-        const items = itemService.query()
+        const items = stickersService.query()
         this.setState({ items })
         console.log('items:', items)
     }
@@ -17,7 +17,7 @@ export class ItemApp extends React.Component {
         const { items } = this.state
         return (
             <section className="item-app middle-layout">
-                <h2 className="section-name">חוברות מיני 17*16 ס"מ</h2>
+                <h2 className="section-name">מדבקות</h2>
                 <div className="item-list">
                     <ItemList items={items} />
                 </div>

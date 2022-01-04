@@ -18,10 +18,10 @@ export class AppHeader extends Component {
                 <header className="header-layout">
                     <div className="header-container main-layout flex space-between">
                         <div className="header-logo" onClick={this.scrollToTop}>
-                            <span className="K">K</span>
-                            <span className="I">I</span>
-                            <span className="D">D</span>
-                            <span className="O">O</span>
+                            <span className="K">B</span>
+                            <span className="I">U</span>
+                            <span className="D">K</span>
+                            <span className="O">I</span>
                         </div>
                         <input type="text" name="text" placeholder="חיפוש" autoComplete="off" className="search-input flex align-center justify-center" />
                         <div className="header-menu">

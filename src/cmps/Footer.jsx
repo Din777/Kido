@@ -1,5 +1,5 @@
 export function Footer() {
     return (
-        < small > All rights reserved for KIDO.ltd @ 2021</small >
+        < small > All rights reserved for BUKI.ltd @ 2021</small >
     )
 }
